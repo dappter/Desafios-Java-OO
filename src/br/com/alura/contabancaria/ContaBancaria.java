@@ -1,3 +1,5 @@
+package br.com.alura.contabancaria;
+
 public class ContaBancaria {
     private int numeroConta;
     private double saldo;

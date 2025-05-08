@@ -1,3 +1,5 @@
+package br.com.alura.contabancaria;
+
 public class Principal {
     public static void main(String[] args) {
         ContaBancaria conta = new ContaBancaria();
